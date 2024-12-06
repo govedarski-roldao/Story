@@ -1,1 +1,2 @@
 Hello, I am the chapter 2 file
+o Git parece ser mesmo fixe
